@@ -1,0 +1,12 @@
+{
+  "format_version": 1,
+  "dictionaries": [
+    {
+      "name": "Mission Impossible Dead Reckoning Part One",
+      "url": "dictionaries/mission_impossible_dead_reckoning_part_one_dictionary_ru.zip",
+      "words": 1639,
+      "size_bytes": 149466,
+      "sha256": "5fc6662c22b53e8cc908bab22c19498afe3073f548a51465476fe6847a111449"
+    }
+  ]
+}
